@@ -108,3 +108,6 @@ preserveAspectRatio: 保留横纵比
 <svg width="400" height="200" viewBox="0 0 200 200"  preserveAspectRatio="none"  style="border:1px solid #cd0000;">
     <rect x="10" y="10" width="150" height="150" fill="#cd0000"/>
 </svg>
+
+
+## 响应式SVG
